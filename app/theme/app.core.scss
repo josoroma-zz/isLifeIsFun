@@ -1,0 +1,31 @@
+// http://ionicframework.com/docs/v2/theming/
+
+// App Shared Imports
+// Make up the design of this app.
+
+// By default each design mode includes these shared imports.
+
+// App Shared Sass variables belong in app.variables.scss.
+
+@import "../pages/home/home";
+
+@import "../pages/numbers/numbers";
+@import "../pages/alphabet/alphabet";
+@import "../pages/words/words";
+
+.toolbar .toolbar-title {
+  padding: 0 12px;
+  font-size: 1rem;
+  font-weight: 250;
+  color: #424242;
+  text-align: center;
+}
+
+ion-navbar-section {
+    min-height: 2.6rem;
+}
+
+.toolbar {
+  padding: 4px;
+  min-height: 2.5rem;
+}

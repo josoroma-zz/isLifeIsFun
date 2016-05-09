@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "title": "A",
+            "subtitle": "Apple",
+            "attr" : {
+                "backgroundColor": "#eb4f4f",
+                "color": "white"
+            }
+        },
+        {
+            "title": "B",
+            "subtitle": "Bee",
+            "attr" : {
+                "backgroundColor": "#338bf8",
+                "color": "white"
+            }
+        },
+        {
+            "title": "C",
+            "subtitle": "Cat",
+            "attr" : {
+                "backgroundColor": "#77dc0b",
+                "color": "white"
+            }
+        },
+        {
+            "title": "D",
+            "subtitle": "Dog",
+            "attr" : {
+                "backgroundColor": "#c601ab",
+                "color": "white"
+            }
+        },
+        {
+            "title": "E",
+            "subtitle": "Elephant",
+            "attr" : {
+                "backgroundColor": "#d2d105",
+                "color": "black"
+            }
+        },
+        {
+            "title": "F",
+            "subtitle": "Flower",
+            "attr" : {
+                "backgroundColor": "#5c42d8",
+                "color": "white"
+            }
+        },
+        {
+            "title": "G",
+            "subtitle": "Glass",
+            "attr" : {
+                "backgroundColor": "#1dc42d",
+                "color": "white"
+            }
+        },
+        {
+            "title": "H",
+            "subtitle": "House",
+            "attr" : {
+                "backgroundColor": "#03c1e4",
+                "color": "black"
+            }
+        },
+        {
+            "title": "I",
+            "subtitle": "Island",
+            "attr" : {
+                "backgroundColor": "#00dc8f",
+                "color": "black"
+            }
+        },
+        {
+            "title": "J",
+            "subtitle": "Jaguar",
+            "attr" : {
+                "backgroundColor": "#f19614",
+                "color": "white"
+            }
+        },
+        {
+            "title": "K",
+            "subtitle": "Key",
+            "attr" : {
+                "backgroundColor": "#b524ee",
+                "color": "white"
+            }
+        },
+        {
+            "title": "L",
+            "subtitle": "Lion",
+            "attr" : {
+                "backgroundColor": "#f875b6",
+                "color": "white"
+            }
+        },
+        {
+            "title": "M",
+            "subtitle": "Moon",
+            "attr" : {
+                "backgroundColor": "#2e7edd",
+                "color": "white"
+            }
+        },
+        {
+            "title": "N",
+            "subtitle": "Nest",
+            "attr" : {
+                "backgroundColor": "#13a31e",
+                "color": "white"
+            }
+        },
+        {
+            "title": "Ñ",
+            "subtitle": "Ñoqui",
+            "attr" : {
+                "backgroundColor": "white",
+                "color": "black"
+            }
+        },
+        {
+            "title": "O",
+            "subtitle": "Orange",
+            "attr" : {
+                "backgroundColor": "#eb4f4f",
+                "color": "white"
+            }
+        },
+        {
+            "title": "P",
+            "subtitle": "Pig",
+            "attr" : {
+                "backgroundColor": "#338bf8",
+                "color": "white"
+            }
+        },
+        {
+            "title": "Q",
+            "subtitle": "Quartz",
+            "attr" : {
+                "backgroundColor": "#77dc0b",
+                "color": "white"
+            }
+        },
+        {
+            "title": "R",
+            "subtitle": "Rocket",
+            "attr" : {
+                "backgroundColor": "#c601ab",
+                "color": "white"
+            }
+        },
+        {
+            "title": "S",
+            "subtitle": "Star",
+            "attr" : {
+                "backgroundColor": "#d2d105",
+                "color": "black"
+            }
+        },
+        {
+            "title": "T",
+            "subtitle": "Tree",
+            "attr" : {
+                "backgroundColor": "#5c42d8",
+                "color": "white"
+            }
+        },
+        {
+            "title": "U",
+            "subtitle": "Umbrella",
+            "attr" : {
+                "backgroundColor": "#1dc42d",
+                "color": "white"
+            }
+        },
+        {
+            "title": "V",
+            "subtitle": "Violin",
+            "attr" : {
+                "backgroundColor": "#03c1e4",
+                "color": "black"
+            }
+        },
+        {
+            "title": "W",
+            "subtitle": "Water",
+            "attr" : {
+                "backgroundColor": "#00dc8f",
+                "color": "black"
+            }
+        },
+        {
+            "title": "X",
+            "subtitle": "Xylophone",
+            "attr" : {
+                "backgroundColor": "#f19614",
+                "color": "white"
+            }
+        },
+        {
+            "title": "Y",
+            "subtitle": "Yoyo",
+            "attr" : {
+                "backgroundColor": "#b524ee",
+                "color": "white"
+            }
+        },
+        {
+            "title": "Z",
+            "subtitle": "Zebra",
+            "attr" : {
+                "backgroundColor": "#f875b6",
+                "color": "white"
+            }
+        }
+    ]
+}

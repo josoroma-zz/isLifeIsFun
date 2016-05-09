@@ -1,0 +1,29 @@
+<ion-navbar *navbar>
+    <ion-title>Alphabet</ion-title>
+</ion-navbar>
+
+<ion-content padding class="alphabet">
+
+    <ion-card
+            *ngFor="#item of items"
+            (click)="speak(item.subtitle)"
+            [style.background-color]="item.attr.backgroundColor"
+            padding>
+        <div class="card-title">
+            <h2
+                [textContent]="item.title"
+                [style.color]="item.attr.color"
+                align="center">
+            </h2>
+        </div>
+
+        <div class="card-subtitle">
+            <h3
+                [textContent]="item.subtitle"
+                [style.color]="item.attr.color"
+                align="center">
+            </h3>
+        </div>
+    </ion-card>
+
+</ion-content>

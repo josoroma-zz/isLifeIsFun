@@ -1,0 +1,25 @@
+.words .word-emoji {
+    margin: 20px;
+
+    font-size:180px;
+
+    display:inline-block;
+    padding:0.16em 0.32em 0.32em;
+
+    -webkit-border-radius:100%;
+	   -moz-border-radius:100%;
+		-ms-border-radius:100%;
+		 -o-border-radius:100%;
+			border-radius:100%;
+
+    -webkit-transform:rotate(90deg);
+	   -moz-transform:rotate(90deg);
+		-ms-transform:rotate(90deg);
+		 -o-transform:rotate(90deg);
+			transform:rotate(90deg);
+
+    background-color:#ead700;
+    line-height:1.1em;
+    font-family:serif;
+    color:#000;
+}
