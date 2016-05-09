@@ -304,7 +304,7 @@ var Rest = (function () {
          * Properties
          */
         this._url = '';
-        this._url = 'https://rawgit.com/api/';
+        this._url = 'https://rawgit.com/josoroma/isLifeIsFun/master/api/';
     }
     /*
      * Get Object Method
