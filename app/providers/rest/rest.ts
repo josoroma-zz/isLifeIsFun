@@ -26,7 +26,7 @@ export class Rest {
     constructor(
         @Inject(Http) private http: Http
     ) {
-        this._url = 'https://rawgit.com/api/';
+        this._url = 'https://rawgit.com/josoroma/isLifeIsFun/master/api/';
     }
 
     /*
