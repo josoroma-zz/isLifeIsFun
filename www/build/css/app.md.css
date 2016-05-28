@@ -8260,6 +8260,9 @@ body {
   font-size: 1.4rem;
   background-color: #191919; }
 
+.home ion-card ion-card-header {
+  font-size: 2.2rem; }
+
 .numbers h2 {
   font-size: 14rem; }
 
@@ -8298,3 +8301,6 @@ ion-navbar-section {
 .toolbar {
   padding: 4px;
   min-height: 2.5rem; }
+
+ion-card ion-card-header {
+  color: #555; }
